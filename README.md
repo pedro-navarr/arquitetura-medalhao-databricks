@@ -1,4 +1,4 @@
-# ✈️ Análise de Ocorrências Aeronáuticas no Databricks
+# ✈️ Análise de Ocorrências da Aviação Brasileira no Databricks
 
 Este projeto apresenta uma solução completa de dados (End-to-End) para a ingestão, tratamento, modelagem e visualização dos dados públicos de incidentes aeronáuticos e informaçoes de aeronaves da aviação civil brasileira, disponibilizados pelo gov.
 
